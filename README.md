@@ -1,8 +1,16 @@
 ### Hi, I'm Ganesha Prasad 👋
 
 💻 Automation Tester | Java | Selenium | API | RestAssured  
-📘 Currently learning: Playwright 
+📘 Currently learning: Playwright  
 🔧 Tools: Java, TestNG, Maven, Postman, REST Assured, Git  
+
+🧪 Areas of expertise:  
+- Functional Testing  
+- Integration Testing  
+- Accessibility Testing (using NVDA screen reader)  
+- Cross-browser & Responsive Testing  
+- Regression and Sanity Testing  
+
 📚 Preparing and sharing Java interview code daily  
 📂 Checkout my latest repos below 👇
 
