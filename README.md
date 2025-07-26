@@ -2,7 +2,7 @@
 
 💻 **Automation Tester** | **Java** | **Selenium** | **API** | **RestAssured**  
 📘 Currently learning: **Playwright**  
-🔧 Tools: **Java**, **TestNG**, **Maven**, **Postman**, **REST Assured**, **Git**  
+🔧 Tools: **TestNG**,**Browserstack** **Maven**, **Postman**, **Jenkins**, **Git** ,**Testrail**, **Jira** 
 
 🧪 Areas of expertise:  
 - **Functional Testing**  
