@@ -1,6 +1,6 @@
 ### Hi, I'm Ganesha Prasad 👋
 
-💻 Automation Tester | **Java** | **Selenium** | **API** | **RestAssured**  
+💻 **Automation Tester** | **Java** | **Selenium** | **API** | **RestAssured**  
 📘 Currently learning: **Playwright**  
 🔧 Tools: **Java**, **TestNG**, **Maven**, **Postman**, **REST Assured**, **Git**  
 
