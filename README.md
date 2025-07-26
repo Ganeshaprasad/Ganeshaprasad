@@ -1,7 +1,7 @@
 ### Hi, I'm Ganesha Prasad 👋
 
-💻 Automation Tester | Java | Selenium | API | Playwright  
-📘 Currently learning: Playwright, GitHub Actions  
+💻 Automation Tester | Java | Selenium | API | RestAssured  
+📘 Currently learning: Playwright 
 🔧 Tools: Java, TestNG, Maven, Postman, REST Assured, Git  
 📚 Preparing and sharing Java interview code daily  
 📂 Checkout my latest repos below 👇
